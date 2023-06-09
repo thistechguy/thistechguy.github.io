@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Joshua Wagner
-description         : Systems Support Enginner and Linux Enthusiast
+description         : Systems Support Engineer and Linux Enthusiast
                       
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 # repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -33,7 +33,7 @@ author:
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : joshua-wagner07
-  medium            : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
